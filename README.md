@@ -1,8 +1,25 @@
-# Welcome to My GitHub Pages
+# Welcome to My GitHub Pages.
 
-## This is where I showcase my work in data visualization.
+# This is where I showcase my work in data visualization.
 
-### Assignments
+## Final Project
+
+### Final Project Paper
+### Total Hours Worked
+![image](https://user-images.githubusercontent.com/90716888/145489908-30e007bc-7294-4bb6-a335-21c852badd3a.png)
+
+### Real GDP
+![image](https://user-images.githubusercontent.com/90716888/145489953-4d510564-2cbc-437e-b597-3ce120b8cca4.png)
+
+### Total Hours Worked & Real GDP Scatterplot
+![image](https://user-images.githubusercontent.com/90716888/145490003-5ca7f7fc-80bd-4402-8ac8-94c0a808c292.png)
+
+### Final Project Dashboard
+![image](https://user-images.githubusercontent.com/90716888/145490038-d6f8d8fc-bf0f-43e6-9bd4-02b13cc740a1.png)
+
+
+
+## Assignments
 #### Assignment 1: Generative Art
 ![image](https://user-images.githubusercontent.com/90716888/145475215-f4ec6171-b060-4f7d-930b-399a08a59461.png)
 
@@ -22,7 +39,7 @@
 ![image](https://user-images.githubusercontent.com/90716888/145475698-2a45190a-83c0-4048-8243-52aaa73f2ad5.png)
 
 
-### Notes
+## Notes
 
 Edward Tufte Note (https://github.com/emilysed1/emilysed1.github.io/blob/main/Data%20Visualization_%20Edward%20Tufte.pdf)
 
