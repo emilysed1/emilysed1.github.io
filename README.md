@@ -4,7 +4,7 @@
 
 ## Final Project
 
-### Final Project Paper
+### Final Project Paper (https://github.com/emilysed1/emilysed1.github.io/blob/main/Final%20Project%20Data%20Visualization.pdf)
 ### Total Hours Worked
 ![image](https://user-images.githubusercontent.com/90716888/145489908-30e007bc-7294-4bb6-a335-21c852badd3a.png)
 
